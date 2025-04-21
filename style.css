@@ -149,9 +149,10 @@ right: 20px;}
 ul{position: relative;
 top:120px;
 right: 50px;}
-.logo{position: relative;
+/* .logo{position: relative;
 top:-90px;
-left:60px;}
+left:60px;} */
+
 .btn{position: relative;
 top:120px;
 gap:10px;}
@@ -244,5 +245,15 @@ border-radius: 40px;}
     }
 .container{overflow-x: hidden;}
 #btn{position: relative;
-left:60px;}
+left:20px;
+top:30px;}
+.logo{position: relative;
+left:30px;}
+ul{position: relative;
+left:40px;
+top:30px;}
+.left-btn,.right-btn{padding:8px 12px;}
+.status{position: relative;
+right:30px;}
+.c-h1{font-size: 35px;}
 }
