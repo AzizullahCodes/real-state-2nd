@@ -255,5 +255,10 @@ top:30px;}
 .left-btn,.right-btn{padding:8px 12px;}
 .status{position: relative;
 right:30px;}
-.c-h1{font-size: 35px;}
+.c-h1{font-size: 35px;
+position: relative;
+right: 20px;}
+.c-p{position: relative;
+right: 20px;
+font-size: 40px;}
 }
